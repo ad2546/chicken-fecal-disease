@@ -26,7 +26,7 @@ def read_yaml(path_to_yaml: Path) -> ConfigBox:
         with open(path_to_yaml, "r") as yaml_file:
             content = yaml.safe_load(yaml_file)
             logger.info(f"YAML file loaded successfully: {path_to_yaml}")
-            return config_box.ConfigBox(content)
+            return ConfigBox(content)
     except BoxError as e:
         logger.error(f"Error reading YAML file: {e}")
         raise e

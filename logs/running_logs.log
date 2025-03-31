@@ -1,1 +1,67 @@
 2025-03-30 19:39:14,113 - INFO - main- This is a test log message.
+2025-03-31 18:16:29,851 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:16:29,857 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:16:29,858 - INFO - common- Directory created: artifacts
+2025-03-31 18:16:29,859 - ERROR - 2432669590- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:17:34,104 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:17:34,107 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:17:34,108 - INFO - common- Directory created: artifacts
+2025-03-31 18:17:34,108 - ERROR - 1833956705- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:17:43,160 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:17:43,162 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:17:43,163 - INFO - common- Directory created: artifacts
+2025-03-31 18:17:43,163 - ERROR - 2883419053- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:17:44,127 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:17:44,129 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:17:44,130 - INFO - common- Directory created: artifacts
+2025-03-31 18:17:44,131 - ERROR - 2883419053- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:22:06,198 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:22:06,203 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:22:06,204 - INFO - common- Directory created: artifacts
+2025-03-31 18:22:06,205 - ERROR - 1833956705- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:26:08,925 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:26:08,930 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:26:08,932 - INFO - common- Directory created: artifacts
+2025-03-31 18:26:08,933 - ERROR - 1833956705- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:26:46,097 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:26:46,101 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:26:46,102 - INFO - common- Directory created: artifacts
+2025-03-31 18:26:46,102 - ERROR - 2892529653- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:28:29,625 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:28:29,628 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:28:29,628 - INFO - common- Directory created: artifacts
+2025-03-31 18:28:29,629 - ERROR - 2892529653- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:29:31,756 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:29:31,758 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:29:31,759 - INFO - common- Directory created: artifacts
+2025-03-31 18:29:31,759 - ERROR - 2892529653- Error during data ingestion: "'ConfigBox' object has no attribute 'data_ingestion'"
+2025-03-31 18:32:18,039 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:32:18,044 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:32:18,045 - INFO - common- Directory created: artifacts
+2025-03-31 18:32:18,046 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:32:18,047 - ERROR - 2892529653- Error during data ingestion: "'ConfigBox' object has no attribute 'source_url'"
+2025-03-31 18:33:47,462 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:33:47,467 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:33:47,468 - INFO - common- Directory created: artifacts
+2025-03-31 18:33:47,469 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:33:47,470 - INFO - 2892529653- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:33:49,737 - ERROR - 2892529653- Error during data ingestion: Argument path of type <class 'str'> to <function get_size at 0x1087ce3a0> does not match annotation type <class 'pathlib.Path'>
+2025-03-31 18:34:52,119 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:34:52,122 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:34:52,123 - INFO - common- Directory created: artifacts
+2025-03-31 18:34:52,123 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:34:52,125 - INFO - 2892529653- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:34:52,126 - ERROR - 2892529653- Error during data ingestion: Argument path of type <class 'str'> to <function get_size at 0x1087ce3a0> does not match annotation type <class 'pathlib.Path'>
+2025-03-31 18:36:11,506 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:36:11,509 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:36:11,518 - INFO - common- Directory created: artifacts
+2025-03-31 18:36:11,519 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:36:11,519 - INFO - 2892529653- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:36:11,519 - ERROR - 2892529653- Error during data ingestion: Argument path of type <class 'str'> to <function get_size at 0x1087ce3a0> does not match annotation type <class 'pathlib.Path'>
+2025-03-31 18:36:41,538 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:36:41,542 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:36:41,543 - INFO - common- Directory created: artifacts
+2025-03-31 18:36:41,544 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:36:41,544 - INFO - 2892529653- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:36:41,545 - INFO - 172851876- File already exists
+2025-03-31 18:36:41,653 - INFO - 172851876- Extracted files to artifacts/data_ingestion/unzipped
