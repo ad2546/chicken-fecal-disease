@@ -159,3 +159,77 @@ x==========x
 2025-03-31 19:05:12,035 - INFO - main- >>>>>> stage Data Ingestion completed <<<<<<
 
 x==========x
+2025-03-31 19:28:10,774 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:28:10,781 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:28:10,783 - INFO - common- Directory created: artifacts
+2025-03-31 19:30:52,736 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:30:52,744 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:30:52,746 - INFO - common- Directory created: artifacts
+2025-03-31 19:37:28,054 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:37:28,059 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:37:28,061 - INFO - common- Directory created: artifacts
+2025-03-31 19:37:58,525 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:37:58,530 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:37:58,532 - INFO - common- Directory created: artifacts
+2025-03-31 19:37:58,533 - INFO - common- Directory created: artifacts/prepare_base_model
+2025-03-31 19:38:04,052 - WARNING - saving_api- You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-31 19:38:04,130 - WARNING - saving_api- You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-31 19:50:22,042 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:50:22,044 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:50:22,044 - INFO - common- Directory created: artifacts
+2025-03-31 19:50:22,044 - INFO - common- Directory created: artifacts/prepare_base_model
+2025-03-31 19:50:22,291 - WARNING - saving_api- You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-31 19:50:22,361 - WARNING - saving_api- You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-31 19:55:06,895 - INFO - stage_02_Base_Model- *******************
+2025-03-31 19:55:06,895 - INFO - stage_02_Base_Model- >>>>>> stage Prepare base model started <<<<<<
+2025-03-31 19:55:06,896 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:55:06,898 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:55:06,898 - INFO - common- Directory created: artifacts
+2025-03-31 19:55:06,898 - INFO - common- Directory created: artifacts/prepare_base_model
+2025-03-31 19:55:07,150 - WARNING - saving_api- You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-31 19:55:07,216 - WARNING - saving_api- You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-03-31 19:55:07,271 - INFO - stage_02_Base_Model- >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x
+2025-03-31 19:55:47,394 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:55:47,396 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:55:47,396 - INFO - common- Directory created: artifacts
+2025-03-31 19:55:47,396 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:55:47,396 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 19:55:47,396 - INFO - data_ingestion- File already exists
+2025-03-31 19:55:47,396 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 19:55:51,142 - INFO - main- >>>>>> stage Data Ingestion started <<<<<<
+2025-03-31 19:55:51,144 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:55:51,144 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:55:51,145 - INFO - common- Directory created: artifacts
+2025-03-31 19:55:51,145 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:55:51,145 - INFO - data_ingestion- File already exists
+2025-03-31 19:55:51,145 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 19:55:51,145 - INFO - main- >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x
+2025-03-31 19:55:51,145 - INFO - main- >>>>>> stage Prepare Base Model started <<<<<<
+2025-03-31 19:55:51,145 - INFO - main- >>>>>> stage Prepare Base Model completed <<<<<<
+
+x==========x
+2025-03-31 19:56:13,856 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:56:13,858 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:56:13,858 - INFO - common- Directory created: artifacts
+2025-03-31 19:56:13,858 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:56:13,858 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 19:56:15,728 - INFO - data_ingestion- Downloaded artifacts/data_ingestion/data.zip 
+2025-03-31 19:56:15,824 - INFO - data_ingestion- Extracted files to artifacts/data_ingestion/unzipped
+2025-03-31 19:56:19,798 - INFO - main- >>>>>> stage Data Ingestion started <<<<<<
+2025-03-31 19:56:19,799 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:56:19,800 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:56:19,800 - INFO - common- Directory created: artifacts
+2025-03-31 19:56:19,800 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:56:19,800 - INFO - data_ingestion- File already exists
+2025-03-31 19:56:19,800 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 19:56:19,800 - INFO - main- >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x
+2025-03-31 19:56:19,800 - INFO - main- >>>>>> stage Prepare Base Model started <<<<<<
+2025-03-31 19:56:19,800 - INFO - main- >>>>>> stage Prepare Base Model completed <<<<<<
+
+x==========x
