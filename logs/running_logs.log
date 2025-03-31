@@ -65,3 +65,97 @@
 2025-03-31 18:36:41,544 - INFO - 2892529653- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
 2025-03-31 18:36:41,545 - INFO - 172851876- File already exists
 2025-03-31 18:36:41,653 - INFO - 172851876- Extracted files to artifacts/data_ingestion/unzipped
+2025-03-31 18:40:55,430 - ERROR - config_entity- Error during data ingestion: [Errno 2] No such file or directory: 'config/config.yaml'
+2025-03-31 18:41:16,251 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:41:16,253 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:41:16,253 - INFO - common- Directory created: artifacts
+2025-03-31 18:41:16,253 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:41:16,253 - INFO - config_entity- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:41:16,253 - INFO - config_entity- File already exists
+2025-03-31 18:41:16,253 - INFO - config_entity- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 18:41:31,438 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:41:31,439 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:41:31,439 - INFO - common- Directory created: artifacts
+2025-03-31 18:41:31,439 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:41:31,439 - INFO - config_entity- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:41:32,992 - INFO - config_entity- Downloaded artifacts/data_ingestion/data.zip 
+2025-03-31 18:41:33,098 - INFO - config_entity- Extracted files to artifacts/data_ingestion/unzipped
+2025-03-31 18:46:16,767 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:46:16,769 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:46:16,770 - INFO - common- Directory created: artifacts
+2025-03-31 18:46:16,770 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:46:16,770 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:46:16,770 - INFO - data_ingestion- File already exists
+2025-03-31 18:46:16,770 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 18:46:35,408 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:46:35,408 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:46:35,409 - INFO - common- Directory created: artifacts
+2025-03-31 18:46:35,409 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:46:35,409 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:46:37,100 - INFO - data_ingestion- Downloaded artifacts/data_ingestion/data.zip 
+2025-03-31 18:46:37,185 - INFO - data_ingestion- Extracted files to artifacts/data_ingestion/unzipped
+2025-03-31 18:53:43,923 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:53:43,926 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:53:43,926 - INFO - common- Directory created: artifacts
+2025-03-31 18:53:43,926 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:53:43,926 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:53:43,926 - INFO - data_ingestion- File already exists
+2025-03-31 18:53:43,926 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 18:53:55,407 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 18:53:55,410 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 18:53:55,410 - INFO - common- Directory created: artifacts
+2025-03-31 18:53:55,411 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 18:53:55,411 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 18:53:57,020 - INFO - data_ingestion- Downloaded artifacts/data_ingestion/data.zip 
+2025-03-31 18:53:57,136 - INFO - data_ingestion- Extracted files to artifacts/data_ingestion/unzipped
+2025-03-31 19:02:35,947 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:02:35,950 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:02:35,950 - INFO - common- Directory created: artifacts
+2025-03-31 19:02:35,950 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:02:35,950 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 19:02:35,950 - INFO - data_ingestion- File already exists
+2025-03-31 19:02:35,950 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 19:02:35,950 - INFO - stage_01_Data_Ingestion- >>>>>> stage Data Ingestion started <<<<<<
+2025-03-31 19:02:35,951 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:02:35,951 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:02:35,951 - INFO - common- Directory created: artifacts
+2025-03-31 19:02:35,951 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:02:35,951 - INFO - data_ingestion- File already exists
+2025-03-31 19:02:35,951 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 19:02:35,951 - INFO - stage_01_Data_Ingestion- >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x
+2025-03-31 19:02:47,759 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:02:47,762 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:02:47,762 - INFO - common- Directory created: artifacts
+2025-03-31 19:02:47,762 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:02:47,762 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 19:02:49,322 - INFO - data_ingestion- Downloaded artifacts/data_ingestion/data.zip 
+2025-03-31 19:02:49,448 - INFO - data_ingestion- Extracted files to artifacts/data_ingestion/unzipped
+2025-03-31 19:02:49,448 - INFO - stage_01_Data_Ingestion- >>>>>> stage Data Ingestion started <<<<<<
+2025-03-31 19:02:49,449 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:02:49,449 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:02:49,449 - INFO - common- Directory created: artifacts
+2025-03-31 19:02:49,449 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:02:49,449 - INFO - data_ingestion- File already exists
+2025-03-31 19:02:49,449 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 19:02:49,449 - INFO - stage_01_Data_Ingestion- >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x
+2025-03-31 19:05:10,517 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:05:10,519 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:05:10,519 - INFO - common- Directory created: artifacts
+2025-03-31 19:05:10,519 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:05:10,520 - INFO - data_ingestion- Data Ingestion Config: DataIngestionConfig(root_dir='artifacts/data_ingestion', source_url='https://github.com/ad2546/Data/raw/refs/heads/main/archive%20(8).zip', local_data_file='artifacts/data_ingestion/data.zip', unzip_dir='artifacts/data_ingestion/unzipped')
+2025-03-31 19:05:11,942 - INFO - data_ingestion- Downloaded artifacts/data_ingestion/data.zip 
+2025-03-31 19:05:12,034 - INFO - data_ingestion- Extracted files to artifacts/data_ingestion/unzipped
+2025-03-31 19:05:12,034 - INFO - main- >>>>>> stage Data Ingestion started <<<<<<
+2025-03-31 19:05:12,034 - INFO - common- YAML file loaded successfully: config/config.yaml
+2025-03-31 19:05:12,034 - INFO - common- YAML file loaded successfully: params.yaml
+2025-03-31 19:05:12,034 - INFO - common- Directory created: artifacts
+2025-03-31 19:05:12,035 - INFO - common- Directory created: artifacts/data_ingestion
+2025-03-31 19:05:12,035 - INFO - data_ingestion- File already exists
+2025-03-31 19:05:12,035 - INFO - data_ingestion- Directory already exists: artifacts/data_ingestion/unzipped
+2025-03-31 19:05:12,035 - INFO - main- >>>>>> stage Data Ingestion completed <<<<<<
+
+x==========x
